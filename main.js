@@ -1,4 +1,4 @@
-var countDownDate = new Date("Jun 22, 2023 00:00:00").getTime();
+var countDownDate = new Date("Jul 22, 2023 00:00:00").getTime();
 
 // countdown
 // Run myfunc every second
